@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mindful-rhythm-344416",
+  "private_key_id": "fd1a2d1aad0f29ecfb32e07dee374f57254986e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCi4bcL41ECmifA\nMWAWKuUYUCPluTWPljr2WhCmD5+x4OAmpykK+xIsdE8wfAaYj7AJVwablWgEnDCo\nSGqFsrfd6ajoqtNYMnllbiY6Le7W7AjejNVpepcQaKY7WL2MlwXU1UBswgVuwLvh\n/sYnOVYeFOJwmK93QzI/QXCOmdyPteNXZrp1DuWeUEX1gxDhAC5W72eqrZWzENqi\nklabKAZ2Scu2KqMJOTUPeSq2tNw9tC6wBshHNfQMrS079wjOzGD+X4DNIkoOy2uH\nmQc9qpTYzna72H9xtvo+Ryg3orjvy+z3inXYK9M8a+XK9sWVJKOAoCgq4R6Hn8f3\n/t6JD9PXAgMBAAECggEAQlicnfwG+H9gZ7n1ALKSRNgH9z/84DL6a3R+SZYdn3AQ\n/c2jOzTPz0nFI+OxMB1/QB6xs1glWZNhgnqU4UbN/Fd8FOHYWpmct0Mp0RL6sZLN\nfhFxsJhdxjJKW+wmsYimuG3w4xwY6GcbYM/NWRbSzEgHgIPBHVxCsF9wgLWNkP+H\neHgDGVZwrlkvfpxQP5YoS4SGNalkMTpMmZWKGrxpWI/iSH9LVFV5zE6DHfqV4UF1\nLGS38hZE+dIZWRBzowLOADlisg8QIrBFz8gQW2/oQsi/1RBJMER3V3fKbHr1VshI\ngiVM6zHVM0qZ2LOTu1fsWPa4S2nxvZUV0NjCqXfUCQKBgQDjlvArPwWOEITCBgWX\n+lCHkxvcij/4SBdpkgt15JzQ0B1pzbU5ozQCfSMRIPYA4CIRMyXEBqRQtFYTeR0T\nYq9EjKVHJvNRaUPkt8MCcKMdG4Cx57pWzCla2n2JO7qahQlhM028t/zE0hKr4Bhg\nkTRvQFpbB8NIQaLoEh+pXEg1XQKBgQC3NuluKUbhMFpnsgpbh0rao6xmhUTUsnsb\nbb0NuZkV0h8LZQs+nMLEhWMZg1rpykSdpcB0uS/+d3Lo0qDpaVQUbUidj6ZVcxe5\nSsdQ9VeaY/Ih3ue781H/NjmhjS3ZGreooyntLx4WkMlR+bM6CNx2Lp3/D3lthNJo\nN76C3BsGwwKBgBwg96Ygr+sTF5VzcRWLlpBrGjJz09w37MzbhBcaHlegoUIGbrOk\n/DSiisb/L+iDyzIdBDnqKDzhTRIzEejndYofZ/4XTlNtkzqdi7itezuJvqo+XcWE\njkfwYTuo6jNW5gXhdWYxx0f8PtqHY/vrdnOZnJFLsFMp6ZyNQOSJx1LxAoGBAKOj\nyRSai3NAg87QZ43epg3oWGhtKdAr5ebWuh/TIJcryIyd4FA5JYDvflbgSsg739NK\noz3d1a8bsyeeURiI+g8QmOYZ0r/Jf2wBDUsTBv6fvDliZWoq5pbjMNBJT6T0xws5\nSI5PIjmXcijktJ7mITrxYi7Y/GTEWEW7XE53FzCPAoGALOWSOaQhhd6rWv7u74gc\nJWEA7bnpp9nHlf5tgfU34vwpaIxzJxMJbNFp4+eSHZUtkCkBgLWhFZbKRQX2Y5yF\nV9lragyvSlOCiq8879zhPGcg2AuuCGkR3otfRmFTnOxT2aNs7/aTRsDpu8Tmn9bG\nMAk7sgI6lTXjdFt0dOfYmiw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "calienhanh@mindful-rhythm-344416.iam.gserviceaccount.com",
+  "client_id": "107235531527695514918",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calienhanh%40mindful-rhythm-344416.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
