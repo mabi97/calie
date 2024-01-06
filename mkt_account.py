@@ -1,3 +1,4 @@
+#lấy dữ liệu account chạy ad trên fb và tiktok
 import requests
 from datetime import datetime, timedelta
 import pyodbc

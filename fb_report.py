@@ -1,3 +1,4 @@
+#cập nhật chi phí ad facebook trong ngày
 import requests
 from datetime import datetime, timedelta
 import pyodbc 
