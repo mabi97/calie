@@ -3,8 +3,10 @@ from datetime import datetime, timedelta
 import pyodbc
 
 fb_token_list = ["EAAI9vVVEJgwBO2JHY0NWNBZAajoFdLUitvQt4MgntZCE2ZAMCgV63JhYN69roNOO6TwXR4igKuHgTfq9HhbI6fQlY1JFdQUW1itVxqU1fM1J6JTpMixJGHhTXf6vzUYkXQO6jpcdX3juLVsZCC7VgZByc5nwr703DNZAvQZCRRYoRz8vcNvZAweF7oghoGzNCD3d7RgD85vs"]
+#mã token của facebook sẽ hết hạn sau 2 tháng
 
 tiktok_token_list = ["bcee4384ce761bba2efe90db2fd04e109f05f933"]
+#không bị hết hạn
 
 conn = pyodbc.connect('Driver={SQL Server};'
                       'Server=14.225.9.147;'

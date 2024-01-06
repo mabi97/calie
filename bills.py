@@ -3,6 +3,7 @@ import json
 from datetime import datetime, timedelta
 import pyodbc
 
+#connect to database
 conn = pyodbc.connect('Driver={SQL Server};'
                       'Server=14.225.9.147;'
                       'Database=Calie;'
@@ -10,7 +11,7 @@ conn = pyodbc.connect('Driver={SQL Server};'
                       'PWD=Rossie2022@ReportMulti!@#$$;')
 cursor = conn.cursor()
 
-def main_request(page):
+def main_request(page):  #request data (json file)
     current_date = datetime.now().date()
     today_date = current_date.strftime("%Y-%m-%d")
 
@@ -31,10 +32,10 @@ def main_request(page):
 
     return response.json()
 
-def get_page(response):
+def get_page(response):  #get number of page
     return response['data']['totalPages']
 
-def get_orders(response):
+def get_orders(response): #convert and get data from json file to insert and update to database
     orders = response["data"]["bill"]
     for key1, order in orders.items():
         try: 
